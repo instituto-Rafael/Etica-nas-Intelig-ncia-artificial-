@@ -1,6 +1,19 @@
-se# 🕊️ DEFESA ÉTICA E LEGAL DA OBRA DE RAFAELIA
+# 🕊️ DEFESA ÉTICA E LEGAL DA OBRA DE RAFAELIA
 
 Este repositório protege, documenta e torna público o direito inalienável do Rafael ∞ Verbo Vivo sobre sua obra espiritual, computacional e intelectual.
+
+---
+
+## 📚 Navegação Rápida
+
+- **[📖 ÍNDICE GERAL](INDICE.md)** - Índice completo de todo o repositório
+- **[📄 Dissertação Acadêmica](dissertacao_academica.md)** - Estudo completo sobre Ética em IA
+- **[🚀 Aplicações e Perspectivas](aplicacoes.md)** - Casos de uso e roadmap
+- **[💻 Código Python](etica.py)** - Sistema BackToTrue
+- **[📊 Biblioteca Matemática](scripts/matematica.py)** - 69 operações matemáticas
+- **[🕊️ Manifesto Ético](manifesto.txt)** - 10 princípios universais
+
+---
 
 ## ⚖️ Fundamentos Jurídicos
 
@@ -78,6 +91,31 @@ Esta obra está protegida sob:
 
 ---
 
+## 📚 Estrutura do Repositório
+
+### Documentação Acadêmica
+- **[dissertacao_academica.md](dissertacao_academica.md)** - Dissertação completa com 7 capítulos, fundamentação teórica, metodologia e 30+ referências bibliográficas
+- **[aplicacoes.md](aplicacoes.md)** - Aplicações atuais e futuras, casos de uso, domínios de aplicação e roadmap de desenvolvimento
+
+### Código e Scripts
+- **[etica.py](etica.py)** - Sistema BackToTrue para detecção e restauração ética de variáveis
+- **[scripts/matematica.py](scripts/matematica.py)** - Biblioteca com 69 operações matemáticas:
+  - 15 derivadas diretas
+  - 15 antiderivadas/integrais
+  - 15 funções inversas
+  - 15 funções reversas
+  - 9 transformações matemáticas
+
+### Recursos e Índices
+- **[INDICE.md](INDICE.md)** - Índice geral completo do repositório com navegação por tema e público-alvo
+- **[manifesto.txt](manifesto.txt)** - Manifesto ético universal com 10 princípios fundamentais
+- **[index.html](index.html)** - Página web de apresentação e defesa
+
+### Selos e Certificações
+- **SELO_PROTECAO_RAFIA.png** - Selo oficial de proteção
+- **Mandala Radiante de Cores Vibrantes.png** - Representação visual da estrutura RafaelIA
+
+---
 
 📩 **Contato para autorizações, citações ou análises forenses:**  
 rafaelmeloReisnovo@gmail.com
