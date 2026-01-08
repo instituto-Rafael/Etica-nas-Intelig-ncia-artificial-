@@ -15,7 +15,7 @@ Assinatura: RAFCODE_𝚽
 """
 
 import math
-from typing import Callable, Union, Tuple
+from typing import Callable, Union, Tuple, Any
 
 
 class Matematica:
@@ -380,7 +380,7 @@ class Matematica:
     
     def transformada_z(self, sequencia: list, z: complex) -> complex:
         """63. Transformada Z"""
-        resultado = 0
+        resultado = complex(0)
         for n, valor in enumerate(sequencia):
             resultado += valor * (z ** (-n))
         return resultado
@@ -388,12 +388,16 @@ class Matematica:
     def transformada_wavelet_haar(self, dados: list) -> Tuple[list, list]:
         """64. Transformada Wavelet de Haar (1 nível)"""
         n = len(dados)
-        aproximacao = [(dados[i] + dados[i+1]) / math.sqrt(2) for i in range(0, n-1, 2)]
-        detalhe = [(dados[i] - dados[i+1]) / math.sqrt(2) for i in range(0, n-1, 2)]
+        if n % 2 != 0:
+            raise ValueError("Dados devem ter comprimento par para Wavelet de Haar")
+        aproximacao = [(dados[i] + dados[i+1]) / math.sqrt(2) for i in range(0, n, 2)]
+        detalhe = [(dados[i] - dados[i+1]) / math.sqrt(2) for i in range(0, n, 2)]
         return aproximacao, detalhe
     
     def transformada_box_cox(self, x: float, lambda_param: float) -> float:
         """65. Transformada de Box-Cox"""
+        if x <= 0:
+            raise ValueError("Box-Cox requer x > 0")
         if lambda_param == 0:
             return math.log(x)
         return (x ** lambda_param - 1) / lambda_param
@@ -424,7 +428,7 @@ class Matematica:
     # MÉTODOS AUXILIARES
     # ==========================================
     
-    def registrar_operacao(self, nome: str, resultado: any):
+    def registrar_operacao(self, nome: str, resultado: Any):
         """Registra operação no histórico para auditoria"""
         self.historico.append({
             'operacao': nome,
