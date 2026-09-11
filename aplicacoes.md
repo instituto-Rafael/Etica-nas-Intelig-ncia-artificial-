@@ -417,7 +417,7 @@ O projeto RAFAELIA busca colaboradores que compartilhem dos valores de ética, t
 
 ## 10. Contato e Licenciamento
 
-**Autor:** Rafael ∞ Verbo Vivo  
+**Autor:** Rafael Melo Reis (∆RafaelVerboΩ)  
 **Email:** rafaelmeloReisnovo@gmail.com  
 **Repositório:** https://github.com/instituto-Rafael/Etica-nas-Intelig-ncia-artificial-  
 
