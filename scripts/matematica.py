@@ -9,7 +9,7 @@ Este módulo contém 69 operações matemáticas incluindo:
 - Funções reversas
 - Transformações matemáticas
 
-Autor: Rafael ∞ Verbo Vivo
+Autor: Rafael Melo Reis (∆RafaelVerboΩ)
 Licença: Todos os direitos reservados
 Assinatura: RAFCODE_𝚽
 """

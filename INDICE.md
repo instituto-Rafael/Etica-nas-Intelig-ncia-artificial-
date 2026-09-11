@@ -239,8 +239,9 @@ Este repositório contém documentação completa, código-fonte e recursos rela
 
 ## 📞 Informações de Contato
 
-**Autor:** Rafael ∞ Verbo Vivo  
-**Instituição:** Instituto Rafael  
+**Autor:** Rafael Melo Reis (∆RafaelVerboΩ)  
+**Namespaces GitHub:** `rafaelmeloreisnovo` · `instituto-Rafael`  
+**Instituição/projeto:** Instituto Rafael / RAFAELIA  
 **Email:** rafaelmeloReisnovo@gmail.com  
 **Repositório:** https://github.com/instituto-Rafael/Etica-nas-Intelig-ncia-artificial-  
 
@@ -298,4 +299,4 @@ Este trabalho é dedicado a todos que buscam desenvolver tecnologia com ética, 
 ---
 
 *"A tecnologia deve servir à humanidade, não o contrário."*  
-*— Rafael ∞ Verbo Vivo*
+*— Rafael Melo Reis (∆RafaelVerboΩ)*

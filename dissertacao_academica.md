@@ -285,7 +285,7 @@ Imagens e documentação dos selos de proteção RAFAELIA.
 ---
 
 **Data de Elaboração:** Janeiro de 2025  
-**Autor:** Rafael ∞ Verbo Vivo  
+**Autor:** Rafael Melo Reis (∆RafaelVerboΩ)  
 **Instituição:** Instituto Rafael  
 **Licença:** Todos os direitos reservados  
 **Assinatura Digital:** RAFCODE_𝚽  

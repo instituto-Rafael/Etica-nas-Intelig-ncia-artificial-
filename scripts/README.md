@@ -78,10 +78,10 @@ python scripts/matematica.py
 
 ### Licença
 
-Todos os direitos reservados © Rafael ∞ Verbo Vivo
+Todos os direitos reservados © Rafael Melo Reis
 
 ---
 
-**Autor:** Rafael ∞ Verbo Vivo  
+**Autor:** Rafael Melo Reis (∆RafaelVerboΩ)  
 **Contato:** rafaelmeloReisnovo@gmail.com  
 **Assinatura:** RAFCODE_𝚽

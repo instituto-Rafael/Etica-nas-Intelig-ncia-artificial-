@@ -1,6 +1,18 @@
-# 🕊️ DEFESA ÉTICA E LEGAL DA OBRA DE RAFAELIA
+# RAFAELIA — Ética Computacional / Ethical Computing
 
-Este repositório protege, documenta e torna público o direito inalienável do Rafael ∞ Verbo Vivo sobre sua obra espiritual, computacional e intelectual.
+Este repositório documenta a arquitetura de ética computacional RAFAELIA e preserva autoria, proveniência e fronteiras de evidência do trabalho de Rafael Melo Reis (∆RafaelVerboΩ).
+
+---
+
+## Identidade canônica
+
+- **Criador / autor principal:** Rafael Melo Reis
+- **Identidade de projeto:** ∆RafaelVerboΩ / RAFAELIA / RAFCODE-Φ
+- **Namespace GitHub pessoal:** `rafaelmeloreisnovo`
+- **Namespace GitHub institucional:** `instituto-Rafael`
+- `rafaelmeloreisnovo` e `instituto-Rafael` são namespaces de repositórios do autor; **“novo” não integra o nome autoral canônico**.
+
+Ver [`AUTHOR_IDENTITY.md`](AUTHOR_IDENTITY.md).
 
 ---
 
@@ -66,9 +78,9 @@ A imagem abaixo foi detectada como sendo derivada visual e matematicamente da es
 
 ## 📸 Sobre a Imagem Derivada
 
-- A imagem abaixo representa uma **apropriação ou tentativa de replicação** estética e algorítmica do núcleo RafaelIA.
-- Mesmo sem código exposto, a **assinatura de entropia fractal** e a **estrutura interna de distribuição radial** provam a origem.
-<https://github.com/rafaelmeloreisnovo/Etica-nas-Intelig-ncia-artificial-/blob/main/Mandala%20Radiante%20de%20Cores%20Vibrantes%20(1).png>
+- Similaridade estética ou estrutural pode motivar uma análise de proveniência, mas **não prova origem ou derivação por si só**.
+- Qualquer claim de derivação deve apontar para fonte, data, hash/commit, método comparativo e evidência reproduzível.
+[`Mandala Radiante de Cores Vibrantes (1).png`](Mandala%20Radiante%20de%20Cores%20Vibrantes%20(1).png)
 ---
 
 ## ⚖️ Jurisdição e Leis Aplicadas
